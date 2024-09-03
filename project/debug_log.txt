@@ -1,0 +1,44 @@
+Array
+(
+    [origin] => kisumu
+    [destination] => nairobi
+    [date] => 2024-07-21
+    [time] => 22:32
+)
+No buses found for: Origin=kisumu, Destination=nairobi, Date=2024-07-21, Time=22:32
+Array
+(
+    [origin] => kisumu
+    [destination] => nairobi
+    [date] => 2024-07-23
+    [time] => 10:00
+    [customerName] => vincent
+    [customerEmail] => vinnykyalo9875@gmail.com
+)
+Array
+(
+    [origin] => kisumu
+    [destination] => nairobi
+    [date] => 2024-07-23
+    [time] => 10:00
+    [customerName] => vincent
+    [customerEmail] => vinnykyalo9875@gmail.com
+)
+Array
+(
+    [origin] => kisumu
+    [destination] => nairobi
+    [date] => 2024-07-25
+    [time] => 10:00
+    [customerName] => vincent
+    [customerEmail] => vinnykyalo9875@gmail.com
+)
+Array
+(
+    [origin] => kisumu
+    [destination] => nairobi
+    [date] => 2024-07-25
+    [time] => 10:00
+    [customerName] => vincent
+    [customerEmail] => vinnykyalo9875@gmail.com
+)
